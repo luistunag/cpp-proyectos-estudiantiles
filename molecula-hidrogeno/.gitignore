@@ -1,0 +1,33 @@
+# Archivos y carpetas generados por compilación
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Archivos de datos de simulación
+*.dat
+
+# Archivos de salida
+output/
+
+# Archivos de Python cache
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de editores
+*~
+\#*\#
+*.swp
+.DS_Store
+
+# Archivos ocultos de backup
+*.bak
+
+# Entornos virtuales (si se usan)
+venv/
+.env/
+.envrc
+
+# Archivos de logs
+*.log
