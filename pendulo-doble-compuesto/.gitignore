@@ -1,0 +1,19 @@
+# Archivos de respaldo de Emacs
+*~
+\#*\#
+
+# Archivos generados automáticamente
+*.dat
+*.png
+*.mp4
+output/
+data/
+
+# Ejecutables
+bin/
+*.out
+*.exe
+a.out
+
+# Archivos de macOS
+.DS_Store
