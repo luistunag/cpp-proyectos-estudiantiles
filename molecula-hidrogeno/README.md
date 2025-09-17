@@ -13,7 +13,7 @@ El modelo simula las interacciones entre los tres átomos de la molécula de agu
 La animación visualiza el movimiento de cada átomo y resalta información clave sobre posiciones y velocidades iniciales.
 
 ## 📁 Estructura del Proyecto
-
+```
 molecula-hidrogeno/
 ├── bin/                      # Contiene el ejecutable de la simulación
 ├── data/                     # Almacena los datos generados por la simulación (molecula.dat)
@@ -23,7 +23,7 @@ molecula-hidrogeno/
 ├── simulacion_molecula.cpp  # Código fuente de la simulación en C++
 ├── Makefile                 # Automatización de compilación y animación
 └── README.md                # Este archivo
-
+```
 ## ⚙️ Requisitos
 
 ### Python (instalar dentro de un entorno virtual):
