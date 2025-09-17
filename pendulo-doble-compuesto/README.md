@@ -76,7 +76,7 @@ make clean
 ---
 
 ## 📂 Archivos relevantes
-
+```
 | Archivo                        | Descripción                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
 | `src/pendulo_rk4.cpp`         | Simulación usando RK4 con paso fijo                                        |
@@ -85,7 +85,7 @@ make clean
 | `scripts/generar_animacion.sh`| Script bash para generar PNGs con Gnuplot                                  |
 | `reporte/reporte_proyecto.pdf`| Reporte original del proyecto con teoría, código y resultados              |
 | `Makefile`                    | Automatiza compilación, simulación, animación y limpieza                   |
-
+```
 ---
 
 ## 🧼 `.gitignore`
