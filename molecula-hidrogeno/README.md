@@ -48,9 +48,9 @@ brew install gcc
 	2. Activar el entorno virtual 
 	3. Ejecutar:
 	
-	```bash
-    make animacion
-    ```
+```bash
+make animacion
+```
 
 ## 📹 Resultado
 
